@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://www.creativesoftware.com/sites/default/files/2020-10/Chamindu%20Blog%20Oct%202020%20Cover%20pic%203.jpg" alt="Header" width="1000" height="350">
+ <img src="[https://www.creativesoftware.com/sites/default/files/2020-10/Chamindu%20Blog%20Oct%202020%20Cover%20pic%203.jpg](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/04/web-developer-portfolio.webp)" alt="Header" width="1000" height="350">
 
 # Hi, I'm Nithin! 👋
 
