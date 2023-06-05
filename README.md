@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--PHvvmnw8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/91ovedmu4grqhjh434rq.png" alt="Header" width="800" height="400">
-</div>
+ <img src="https://www.creativesoftware.com/sites/default/files/2020-10/Chamindu%20Blog%20Oct%202020%20Cover%20pic%203.jpg" alt="Header" width="1000" height="350">
 
 # Hi, I'm Nithin! 👋
 
