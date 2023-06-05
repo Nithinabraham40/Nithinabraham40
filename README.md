@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Header" width="800" height="400">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--PHvvmnw8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/91ovedmu4grqhjh434rq.png" alt="Header" width="800" height="400">
 </div>
 
 # Hi, I'm Nithin! 👋
