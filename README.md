@@ -38,7 +38,7 @@ Here are the technologies I'm proficient in:
 Prior to my current role, I gained valuable experience as a Network Engineer at Corus Infotech for 8 months. This role provided me with insights into network infrastructure and honed my troubleshooting skills.
 
 ## Education
-- 🎓 BTech in Computer Science from Government Engineering College Palakkad
+- 🎓 BTech in Information Technology from Government Engineering College Palakkad
 
 ## Contact Me
 Feel free to reach out to me via email at [abrahamnithin@gmail.com]. I'm open to discussing exciting opportunities, collaborations, or simply having a chat about technology! 📩
