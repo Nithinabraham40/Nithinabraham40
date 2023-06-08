@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="file:///C:/Users/HP/Downloads/Nithin Abraham (1).png" alt="Header" width="1000" height="350">
+  <img src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1" alt="Header" width="1000" height="350">
 </div>
 
 # Hi, I'm Nithin! 👋
