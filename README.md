@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=""C:\Users\HP\Downloads\Nithin Abraham (1).png"" alt="Header" width="1000" height="350">
+  <img src="C:\Users\HP\Downloads\Nithin Abraham (1).png" alt="Header" width="1000" height="350">
 </div>
 
 # Hi, I'm Nithin! 👋
